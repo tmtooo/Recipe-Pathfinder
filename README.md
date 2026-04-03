@@ -11,7 +11,7 @@
 本系统需要真实的配方数据作为基础支撑。请使用配套的 **Minecraft 模组** 提取最新的配方 JSON 文件。
 目前适配GregTech Odyssey整合包格雷配方
 
-🔗 配套模组提取工具：[0]
+🔗 配套模组提取工具：[https://github.com/tmtooo/Recipe-Dumper]
 
 ## 系统架构
 
@@ -27,4 +27,4 @@
 
 ## 许可协议 (License)
 
-本项目采用 [MIT License](LICENSE) 协议开源。
+MIT

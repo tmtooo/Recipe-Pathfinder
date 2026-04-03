@@ -1,4 +1,4 @@
-# Recipe Pathfinder 🌐
+# Recipe Pathfinder 
 
 ## 这是什么？
 

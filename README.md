@@ -15,15 +15,15 @@
 
 ## 系统架构
 
-- **后端 (`recipe_pathfinder_backend`)**：Python (FastAPI 等)，负责读取海量 JSON 配方数据，并通过算法计算最佳合成路线。
-- **前端 (`recipe_pathfinder_frontend`)**：React + TypeScript，接收后端的数据，渲染出炫酷的节点式交互图（Flow Nodes）。
+- **后端 (`recipe_pathfinder_backend`)**：Python (FastAPI 等)，负责读取 JSON 配方数据，并算法计算最佳合成路线。
+- **前端 (`recipe_pathfinder_frontend`)**：React + TypeScript，接收后端的数据，渲染出节点式交互图（Flow Nodes）。
 
 ## 如何运行 (Run)
 
 系统已配置好本地一键启动脚本。
 
 1. 双击根目录下的 `start.bat`。
-2. 脚本会自动为你打通前后端服务，并提供本地访问链接。
+2. 脚本会自动打通前后端服务，并提供本地访问链接。
 
 ## 许可协议 (License)
 
